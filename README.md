@@ -1,5 +1,5 @@
 - 👋 Hi, I’m jrc@jrc2d3
-- 👀 I’m interested in Concepts of modern computational languages, knowledge-based search engines and the basics of Python, Java etc.
+- 👀 I’m interested in the concepts of modern computational languages, knowledge-based search engines and the basics of Python, Java etc.
 - 🌱 I’m currently learning Wolfram language/Syntax, In-Browser-Coding,css, HTML,markdown, continuous-workflow-platforms, like GitHub.etc.
 - 💞️ I’m looking to collaborate on ...(pending).
 - 📫 How to reach me ...(Pending).
